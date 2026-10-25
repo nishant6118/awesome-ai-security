@@ -181,6 +181,7 @@ This repository covers:
 | [HiddenLayer AIM Security](https://hiddenlayer.com/) | [HiddenLayer](https://hiddenlayer.com/) | AI application monitoring, real-time threat detection, and zero-trust access controls. |
 | [CalypsoAI Moderator](https://www.calypsoai.com/) | [CalypsoAI](https://www.calypsoai.com/) | Commercial tool with audit trails, malicious code detection, and data loss protection. |
 | [Polaxis](https://github.com/nishant6118/Polaxis-SDK-MCP) | [Polaxis](https://polaxis.io) | Runtime firewall for AI agents — 7-layer threat detection (prompt injection, PII, secrets, memory poisoning, authority claims) before tool execution. Sub-millisecond regex L1–L5 + LLM semantic eval L6 + policy engine L7. 99.4% avg detection rate, 0% false-block rate. Python SDK + MCP server. [Benchmark →](https://polaxis.io/benchmark) |
+| [AI-FW](https://aifw.io) | [Securetron](https://github.com/securetron-gh) | Self-hosted AI firewall and governance gateway for AI agents — jailbreak/prompt-injection detection, PII masking, policy enforcement, model routing, and audit logging. Free community edition. |
 
 ---
 
